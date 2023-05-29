@@ -33,7 +33,7 @@ Follow these steps to install and run the React.js Starter Kit:
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
-## Contributing
+## Contributing ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 We welcome contributions from the community. To contribute to the React.js Starter Kit, follow these steps:
 
