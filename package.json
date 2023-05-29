@@ -1,0 +1,29 @@
+{
+  "author": "David Casanellas",
+  "license": "ISC",
+  "name": "react-js-starter-kit",
+  "version": "0.0.0",
+  "description": "React JS Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx webpack-dev-server",
+    "build:dev": "npx webpack --mode development",
+    "build:prod": "npx webpack --mode production"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.21.8",
+    "@babel/plugin-transform-runtime": "^7.21.4",
+    "@babel/preset-env": "^7.21.5",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/runtime": "^7.21.5",
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
+  }
+}
