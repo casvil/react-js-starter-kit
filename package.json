@@ -2,7 +2,7 @@
   "author": "David Casanellas",
   "license": "ISC",
   "name": "react-js-starter-kit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "React JS Starter Kit",
   "main": "index.js",
   "scripts": {
