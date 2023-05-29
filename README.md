@@ -45,6 +45,6 @@ We welcome contributions from the community. To contribute to the React.js Start
 
 🎉 Thank you for your interest in contributing to the React.js Starter Kit! We appreciate your contributions and will review them promptly.
 
-## License
+## License [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 
-The React.js Starter Kit is released under the [MIT License](https://opensource.org/licenses/MIT). Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+The React.js Starter Kit is released under the This project is licensed under the [ISC License](LICENSE). Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
